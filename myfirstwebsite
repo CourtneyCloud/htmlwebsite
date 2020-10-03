@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My First Website</title>
+  </head>
+  <body>
+     <h1>My First Website</h1>
+     <h2>An HTML Playground</h2>
+  
+      This is my first webiste and <b> I'm very excited !!!!!!</b> 
+      
+      <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      </p>
+      
+      <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br><br><br><br>
+      
+      <b>Venenatis a condimentum vitae sapien.</b><br>
+      <i>Consequat ac felis donec et odio pellentesque.</i><br>
+      <u>Iaculis nunc sed augue lacus. Cursus vitae congue mauris rhoncus aenean vel elit scelerisque.</u><br>
+      <em>Id aliquet risus feugiat in ante metus dictum at tempor.</em><br>
+      <strong>Facilisis mauris sit amet massa vitae.</strong><br>
+      <hr>
+      
+      Porta nibh venenatis cras sed felis eget velit aliquet sagittis.
+      <a> href="https://google.com" target="_blank"> Adipiscing tristique risus nec feugiat in fermentum. Vulputate mi sit amet mauris commodo quis.</a> 
+      Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Eget sit amet tellus cras. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Turpis egestas maecenas pharetra convallis.
+      </p>
+      
+      <img> src="https://via.placeholder.com/600x300" border="10">
+      
+      <ul>
+        <li> apples </li>
+          <ul>
+            <li>Golden Delicious</li>
+            <li>granny smith</li>
+            <li>gala</li>
+          </ul>
+        <li>oranges</li>
+        <li>pineapples</li>
+        <li>mangoes</li>
+        <li>dragonfruit</li>
+     </ul>
+     
+     <table border="10" cellpadding="10" cellspacing="0">
+       <tr><th>Month</th>
+           <th>Rent</th>
+           <th colspan="2">Utilities</th>
+           <th>Groceries</th>
+           <th>Eating Out</th>
+           <th>Entertainment</th>
+         </tr>
+         <tr>
+           <th rowspan="3">Fall</th>
+           <th>June</th>
+           <th>$1500</th>
+           <th>$100</th>
+           <th>$50</th>
+           <th>$350</th>
+           <th>$100</th>
+           <th>%50</th>
+         </tr>
+          <tr>
+           <th>July</th>
+           <th>$1500</th>
+           <th>$100</th>
+           <th>$50</th>
+           <th>$350</th>
+           <th>$100</th>
+           <th>%50</th>
+         </tr>
+          <tr>
+           <th>August</th>
+           <th>$1500</th>
+           <th>$100</th>
+           <th>$50</th>
+           <th>$350</th>
+           <th>$100</th>
+           <th>%50</th>
+         </tr>
+     
+     </table>
+
+     </body>
+</html>
